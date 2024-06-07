@@ -10,5 +10,5 @@ Este proyecto es un ejemplo de una aplicación CRUD (Create, Read, Update, Delet
   - Spring JDBC
   - PostgreSQL Drive
 - Gradle para la gestión de dependencias y construcción del proyecto
-- Postman para las solucitudes HTTPS
+- Postman para las solicitudes HTTPS
 - DOCKER para correr PostgreSQL de manera remota.
